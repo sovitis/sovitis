@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**sovitis/sovitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello everyone, my name is Mladen and I am a frontend developer!
+### Tehnical knowledge:
+- Knowledge and experience with HTML5 (understanding of semantics and SEO principles as well as accessibility),
+- Knowledge and experience with CSS3 (experience working with advanced CSS layouts),
+- Experience with CSS preprocessors (SASS),
+- Experience with NPM package manager,
+- Working with code version control systems - Git,
+- Solid knowledge about Javascript (functional programming, working whit sets of data, manipulation with DOM and event handling, Async processing, ect.),
+- Knowledge in ReactJS (about JSX - JavaScript syntax extension, components, virtual DOM, hooks, ect.).
+### Personal skills:
+- Detail Oriented, because details is matter in FE,
+- Adaptability and Thirst for Learning, constant desire to learn and progress,
+- Creative and Critical Thinker, thinking outside the box,
+- Effective Communicator, too clearly state ideas
+- Team Player, nobody in development world cant work alone.
+- Please take a look at the all my projects I have done.
+## Thank you, all the best!
